@@ -1,8 +1,8 @@
-CREATE TABLE IF NOT EXISTS Delivery (
-	id_delivery VARCHAR NOT NULL PRIMARY KEY,
-	id_client VARCHAR NOT NULL,
-	order_address VARCHAR NOT NULL
-);
+-- CREATE TABLE IF NOT EXISTS Delivery (
+-- 	id_delivery VARCHAR NOT NULL PRIMARY KEY,
+-- 	id_client VARCHAR NOT NULL,
+-- 	order_address VARCHAR NOT NULL
+-- );
 -- INSERT INTO orders (id_order, id_client, id_parcel, total_value, order_address)
 -- VALUES (1, 123, 456, 1.99, 'Rua de cima');
 
